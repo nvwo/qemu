@@ -1,4 +1,6 @@
 # qemu
+
+```
 Build instructions
 To download and build QEMU 6.2.0:
 
@@ -15,3 +17,4 @@ git submodule init
 git submodule update --recursive
 ./configure
 make
+```
